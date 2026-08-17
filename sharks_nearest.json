@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Georgia",
+    "species": "Tiger Shark",
+    "distance": 22.1,
+    "last_move": "2016-05-06T06:55:55Z"
+  },
+  {
+    "name": "Ulysses",
+    "species": "White Shark",
+    "distance": 24.6,
+    "last_move": "2024-01-10T00:34:46Z"
+  },
+  {
+    "name": "Teazer",
+    "species": "White Shark",
+    "distance": 34.8,
+    "last_move": "2020-11-19T22:44:00Z"
+  },
+  {
+    "name": "Beacon",
+    "species": "White Shark",
+    "distance": 44.6,
+    "last_move": "2020-11-30T00:49:57Z"
+  },
+  {
+    "name": "Anne Bonny",
+    "species": "White Shark",
+    "distance": 51.4,
+    "last_move": "2025-02-04T14:17:55Z"
+  }
+]
