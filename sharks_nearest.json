@@ -4,34 +4,34 @@
     "species": "White Shark",
     "distance": 95.9,
     "last_move": "2026-05-04T16:00:56Z",
-    "age_days": 111
+    "age_days": 112
   },
   {
     "name": "Ormond",
     "species": "White Shark",
     "distance": 142.5,
     "last_move": "2026-01-16T02:33:55Z",
-    "age_days": 220
-  },
-  {
-    "name": "Breton",
-    "species": "White Shark",
-    "distance": 222.6,
-    "last_move": "2026-08-24T04:29:49.891000Z",
-    "age_days": 0
+    "age_days": 221
   },
   {
     "name": "Scot",
     "species": "White Shark",
     "distance": 252.7,
     "last_move": "2025-11-14T10:47:52Z",
-    "age_days": 283
+    "age_days": 284
+  },
+  {
+    "name": "Breton",
+    "species": "White Shark",
+    "distance": 289.5,
+    "last_move": "2026-08-25T01:13:03.856000Z",
+    "age_days": 0
   },
   {
     "name": "Serena",
     "species": "Tiger Shark",
     "distance": 301.1,
     "last_move": "2025-11-09T21:29:49Z",
-    "age_days": 287
+    "age_days": 288
   }
 ]
