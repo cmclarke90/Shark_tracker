@@ -11,14 +11,14 @@
     "species": "White Shark",
     "distance": 142.5,
     "last_move": "2026-01-16T02:33:55Z",
-    "age_days": 224
+    "age_days": 225
   },
   {
     "name": "Scot",
     "species": "White Shark",
     "distance": 252.7,
     "last_move": "2025-11-14T10:47:52Z",
-    "age_days": 287
+    "age_days": 288
   },
   {
     "name": "Serena",
@@ -32,6 +32,6 @@
     "species": "White Shark",
     "distance": 350.3,
     "last_move": "2026-04-17T01:09:38Z",
-    "age_days": 133
+    "age_days": 134
   }
 ]
