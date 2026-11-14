@@ -1,37 +1,37 @@
 [
   {
+    "name": "Webster",
+    "species": "White Shark",
+    "distance": 140.8,
+    "last_move": "2026-11-14T15:50:02Z",
+    "age_days": 0
+  },
+  {
+    "name": "Contender",
+    "species": "White Shark",
+    "distance": 170.6,
+    "last_move": "2026-11-14T05:25:16.871000Z",
+    "age_days": 0
+  },
+  {
     "name": "Ernst",
     "species": "White Shark",
     "distance": 251.8,
     "last_move": "2026-11-04T22:09:39Z",
-    "age_days": 8
+    "age_days": 9
   },
   {
     "name": "Scot",
     "species": "White Shark",
     "distance": 252.7,
     "last_move": "2025-11-14T10:47:52Z",
-    "age_days": 364
+    "age_days": 365
   },
   {
     "name": "Nori",
     "species": "White Shark",
     "distance": 263.1,
     "last_move": "2026-11-08T09:12:06Z",
-    "age_days": 5
-  },
-  {
-    "name": "Webster",
-    "species": "White Shark",
-    "distance": 277.0,
-    "last_move": "2026-11-09T20:27:58Z",
-    "age_days": 3
-  },
-  {
-    "name": "Ormond",
-    "species": "White Shark",
-    "distance": 348.9,
-    "last_move": "2026-11-09T23:44:14.934000Z",
-    "age_days": 3
+    "age_days": 6
   }
 ]
