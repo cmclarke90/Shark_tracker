@@ -2,36 +2,36 @@
   {
     "name": "Goodall",
     "species": "White Shark",
-    "distance": 58.6,
-    "last_move": "2026-11-22T21:21:53Z",
-    "age_days": 2
+    "distance": 53.5,
+    "last_move": "2026-11-25T17:00:44Z",
+    "age_days": 0
   },
   {
     "name": "Webster",
     "species": "White Shark",
     "distance": 72.2,
     "last_move": "2026-11-20T17:00:10Z",
-    "age_days": 4
+    "age_days": 5
   },
   {
     "name": "Nori",
     "species": "White Shark",
     "distance": 95.4,
     "last_move": "2026-11-24T13:58:56Z",
-    "age_days": 0
+    "age_days": 1
   },
   {
     "name": "Contender",
     "species": "White Shark",
     "distance": 176.5,
     "last_move": "2026-11-24T19:17:00.038000Z",
-    "age_days": 0
+    "age_days": 1
   },
   {
-    "name": "Brookes",
+    "name": "Ripple",
     "species": "White Shark",
-    "distance": 245.6,
-    "last_move": "2026-11-24T15:38:08Z",
+    "distance": 243.6,
+    "last_move": "2026-11-25T00:49:39Z",
     "age_days": 0
   }
 ]
